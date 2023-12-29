@@ -13,7 +13,7 @@ def draw_sidewalk():
         draw_square()
         forward(50)
     penup()
-    forward(50)
+    #forward(50
     left(90)
     
     
